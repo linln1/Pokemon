@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/logondlg.o
+release/pokemondlg.o
+release/authentication.o
+release/qrc_qss.o
+release/qrc_img.o
+release/qrc_media.o
+release/moc_mainwindow.o
+release/moc_logondlg.o
+release/moc_pokemondlg.o

@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/logondlg.o
+debug/pokemondlg.o
+debug/authentication.o
+debug/qrc_qss.o
+debug/qrc_img.o
+debug/qrc_media.o
+debug/moc_mainwindow.o
+debug/moc_logondlg.o
+debug/moc_pokemondlg.o
